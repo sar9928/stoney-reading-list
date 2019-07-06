@@ -1,2 +1,2 @@
 # stoney-reading-list
-This app is for learning about using GraphQL
+This app is for learning about GraphQL
