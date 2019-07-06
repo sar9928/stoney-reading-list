@@ -5,7 +5,7 @@ Notes to self:
 Steps taken:
 Downloaded packages (with express) and setting up port to work with node.
 
-Installed and setup GraphQL 
+Installed with command "npm install graphql express-graphql" and setup GraphQL 
 
 "express-graphql" module allows express to understand graphql
 It provides a simple way to create a Express server that runs the graphql api.
@@ -43,6 +43,25 @@ Updated component states
 
 Composed queries, created query variables, and fetched queries
 
+Installed list(server):
+npm init
+express
+nodemon -g
+graphql
+express-graphql
+mongoose
+cors // allows cross-orgin requests
+
+
+Installed list(client):
+create-react-app
+create-react-app client //used to split client code from server while creating react app
+apollo-boost 
+react-apollo 
+graphql
+
+
+
 
 Technologies used:
 express.js
@@ -52,5 +71,5 @@ GraphQL
 GraphiQL
 mongoDB
 mongoose
-Apollo Client
+Apollo Client // graphql client for creating graphql queries
 
